@@ -13,7 +13,7 @@ first , install dependencies :
 ```sudo pacman -Syu base-devel extra-cmake-modules cmake kirigami2 kde-sdk-meta gettext```
 
 - for Fedora :\
-```sudo dnf groupinstall "Development Tools" "Development Libraries"```
+```sudo dnf groupinstall "Development Tools" "Development Libraries"```\
 ```sudo dnf install extra-cmake-modules cmake qt5-qtbase-devel qt5-qtdeclarative-devel qt5-qtquickcontrols2-devel kf5-kirigami2 kf5-kirigami2-devel kf5-ki18n-devel kf5-kcoreaddons-devel gettext```
 
 to build the program , run :\
